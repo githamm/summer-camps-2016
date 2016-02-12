@@ -61,6 +61,7 @@
         <script type="text/javascript" src="https://cdn.datatables.net/r/zf-5.5.2/jqc-1.11.3,dt-1.10.8/datatables.min.js"></script>
         <!-- <script src="https://cdn.datatables.net/1.10.10/js/jquery.dataTables.min.js"></script> -->
         <script src="https://cdn.datatables.net/responsive/2.0.1/js/dataTables.responsive.js"></script>
+        <script src="https://cdn.datatables.net/plug-ins/1.10.11/sorting/date-de.js"></script>
         <script src="ColumnFilterWidgets.js"></script>
         <script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script>
 
@@ -70,11 +71,11 @@
             .column-filter-widgets a.filter-term { display: block; text-decoration: none; padding-left: 10px; font-size: 90%; }
             .column-filter-widgets a.filter-term:hover { text-decoration: line-through !important; }
             .column-filter-widget-selected-terms { clear:left; }
-            td.details-control.sorting_1 {
+            /* td.details-control.sorting_1 {
                 padding: 0;
                 top: 9px;
                 left: 2px;
-            }
+            } */
             div.dataTables_wrapper div.dataTables_filter input {
               margin-bottom: 15px;
             }
@@ -204,6 +205,9 @@
       </div>
     </div>
 
+    <div class="row">
+        <div class="large-12 columns widget-12">
+
         <!-- TABLE -->
         <div class="row">
             <div class="large-12 columns">
@@ -310,6 +314,7 @@
     <script>
     $( '#example' ).dataTable( { 
         ajax: 'summer-camps-all.txt',
+        order: [ 3, "asc" ],
         paging: true,
         pagingType: 'numbers',
         pageLength: 20,
@@ -320,6 +325,7 @@
                 "orderable": false,
                 "data": null,
                 "defaultContent": ''
+                
             },
             { "data": "timestamp" },
             { "data": "campName" },
@@ -329,26 +335,28 @@
             { "data": "state" },
             { "data": "zipCode" },
             { "data": "county" },
-            { "data": "emailAddress" },
-            /* { "columnDefs": [ {
-                "targets": 10,
+            { 
                 "data": "emailAddress",
-                "render": function(data, type, full, meta) {
-                    return '<a href="'+data+'">Download</a>';
-                }
-                }]
-            }, */
+                "render": function(data, type, full) {
+                    return '<a href="mailto:' + data + '">' + data + '</a>';
+                  }
+            },          
             { "data": "phoneNumber" },
-            { "data": "website" },
-            { "data": "campType" },
-            { "data": "campCategory" },
+            { 
+                "data": "website",
+                "render": function(data, type, full) {
+                    return '<a href="http://' + data + '" target="_top">' + data + '</a>';
+                }
+            },
+            { "data": "campType", "orderable": false },
+            { "data": "campCategory", "orderable": false },
             { "data": "campSpecialty" },
-            { "data": "dateFrom" },
-            { "data": "dateTo" },
+            { "data": "dateFrom", "orderable": false },
+            { "data": "dateTo", "orderable": false },
             { "data": "dateDetail" },
-            { "data": "costCategory" },
+            { "data": "costCategory", "orderable": false },
             { "data": "costDetail" },
-            { "data": "ageRange" },
+            { "data": "ageRange", "orderable": false },
             { "data": "descriptionBrief" },
             { "data": "descriptionDetailed" }
         ],
