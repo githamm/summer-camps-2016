@@ -2181,7 +2181,7 @@
   {
     "campName": "Girl Scouts of Colorado Tomahawk Ranch",
     "city": "Bailey",
-    "emailAddress": "kristin.hamm@gscolorado.org",
+    "emailAddress": "inquiry@gscolorado.org",
     "phoneNumber": "303-607-4822",
     "website": "girlscoutsofcolorado.org/camp",
     "campType": "Overnight",
@@ -2199,7 +2199,7 @@
   {
     "campName": "Girl Scouts of Colorado Sky High Ranch",
     "city": "Woodland Park",
-    "emailAddress": "kristin.hamm@gscolorado.org",
+    "emailAddress": "inquiry@gscolorado.org",
     "phoneNumber": "303-607-4822",
     "website": "girlscoutsofcolorado.org/camp",
     "campType": "Overnight",
@@ -2397,7 +2397,7 @@
   {
     "campName": "Girl Scouts of Colorado day camps",
     "city": "various locations across the state",
-    "emailAddress": "kristin.hamm@gscolorado.org",
+    "emailAddress": "inquiry@gscolorado.org",
     "phoneNumber": "303-607-4822",
     "website": "girlscoutsofcolorado.org/camp",
     "campType": "Day",

@@ -65,6 +65,18 @@
         <script src="ColumnFilterWidgets.js"></script>
         <script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script>
 
+        <script>
+        var iframe = '', kiosk = '';
+        if ( document.location.hash === '#iframe' ) iframe = 1;
+        if ( document.location.hash === '#kiosk' ) { iframe = 1; kiosk = 1; }
+        if ( window.top != window.self ) { iframe = 1; }
+        if ( iframe === '' ) {
+        //Chartbeat startup
+        var _sf_startpt=(new Date()).getTime();
+        var _sf_async_config={};
+        }
+    	</script>
+
         <style>
             .column-filter-widget { float:left; padding: 5px; }
             .column-filter-widget select { display: block; }
@@ -149,7 +161,8 @@
     <!-- End Google Tag Manager -->
 
     <!-- NAVIGATION BAR -->
-      <div id="top-bar-margin">
+    <div id="hide-iframe">
+    <div id="top-bar-margin">
       <!-- <div class="fixed"> -->
       <nav class="top-bar" data-topbar role="navigation">
         <ul class="title-area">
@@ -186,7 +199,7 @@
               <a href="mailto:?subject=Summer%20Camp%20Directory&body=Check%20out%20the%20summer%20camp%20directory%20from%20The%20Denver%20Post%3A%20http%3A%2F%2Fdpo.st%2Fsummercamps2016"><img class="social-icons" src="http://extras.denverpost.com/maps/news/marijuana/licensed-facilities/images/email-icon.png" alt="Email this to a friend"></a>
             </li>
             <li class="post-meta-social pm-twitter ho-list">
-              <a href="javascript:void(0)" onclick="javascript:window.open('http://twitter.com/share?text=Summer%20Camp%20Directory%202016&amp;url=http%3A%2F%2Fdpo.st%2Fsummercamps2016&amp;via=denverpost', 'twitwin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=1');"><img class="social-icons" src="http://extras.denverpost.com/projects/2014/latino-project/images/social-twitter.png" alt="Tweet this story"></a>
+              <a href="javascript:void(0)" onclick="javascript:window.open('http://twitter.com/share?text=Denver%20Post%20Summer%20Camp%20Directory%202016&amp;url=http%3A%2F%2Fdpo.st%2Fsummercamps2016&amp;via=denverpost', 'twitwin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=1');"><img class="social-icons" src="http://extras.denverpost.com/projects/2014/latino-project/images/social-twitter.png" alt="Tweet this story"></a>
             </li>
             <li class="post-meta-social pm-facebook text-center ho-list">
               <a href="javascript:void(0)" onclick="javascript:window.open('http://www.facebook.com/sharer/sharer.php?s=100&amp;p[url]=http%3A%2F%2Fdpo.st%2Fsummercamps2016&amp;p[images][1]=&amp;p[title]=Summer%20Camp%20Directory%202016&amp;p[summary]=A+directory+of+Colorado+summer+camps+for+2016', 'fbwin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=1');"><img class="social-icons" src="http://extras.denverpost.com/projects/2014/latino-project/images/social-facebook.png" alt="Facebook"></a>
@@ -196,12 +209,13 @@
         </div>
       </div>
     </div>
+    </div> <!-- / hide-iframe -->
 
     <!-- TITLE AND INTRO -->
     <div class="row">
       <div class="large-12 medium-12 small-12 columns">
         <h1>Summer Camp Directory 2016</h1>
-        <p class="intro">With more than 400 camp listings for the summer, you'll find options for day and overnight camps throughout the metro area and beyond. Use the search box to search the listings using a keyword or multiple keywords. The dropdown menus can be used to filter the listings; to clear the filters, click the word(s) below the dropdown menus. Happy camping!</p>
+        <p class="intro">With more than 400 camp listings for the summer, you'll find options for day and overnight camps throughout the Denver metro area and beyond. Use the search box to search the listings using a keyword or multiple keywords. The dropdown menus can be used to filter the listings; to clear the filters, click the word(s) below the dropdown menus. Happy camping!</p>
       </div>
     </div>
 
@@ -239,7 +253,8 @@
             </div>
         </div>
 
-        <!-- ADS -->
+    <!-- ADS -->
+    <footer>
     <div class="row">
       <div class="large-10 large-centered medium-12 medium-centered small-12 columns">
         <div class="row adcubes">
@@ -287,7 +302,7 @@
               <a href="mailto:?subject=Summer%20Camp%20Directory&body=Check%20out%20the%20summer%20camp%20directory%20from%20The%20Denver%20Post%3A%20http%3A%2F%2Fdpo.st%2Fsummercamps2016"><img class="social-icons" src="http://extras.denverpost.com/maps/news/marijuana/licensed-facilities/images/email-icon.png" alt="Email this to a friend"></a>
             </li>
             <li class="post-meta-social pm-twitter ho-list">
-              <a href="javascript:void(0)" onclick="javascript:window.open('http://twitter.com/share?text=Summer%20Camp%20Directory%202016&amp;url=http%3A%2F%2Fdpo.st%2Fsummercamps2016&amp;via=denverpost', 'twitwin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=1');"><img class="social-icons" src="http://extras.denverpost.com/projects/2014/latino-project/images/social-twitter.png" alt="Tweet this story"></a>
+              <a href="javascript:void(0)" onclick="javascript:window.open('http://twitter.com/share?text=Denver%20Post%20Summer%20Camp%20Directory%202016&amp;url=http%3A%2F%2Fdpo.st%2Fsummercamps2016&amp;via=denverpost', 'twitwin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=1');"><img class="social-icons" src="http://extras.denverpost.com/projects/2014/latino-project/images/social-twitter.png" alt="Tweet this story"></a>
             </li>
             <li class="post-meta-social pm-facebook text-center ho-list">
               <a href="javascript:void(0)" onclick="javascript:window.open('http://www.facebook.com/sharer/sharer.php?s=100&amp;p[url]=http%3A%2F%2Fdpo.st%2Fsummercamps2016&amp;p[images][1]=&amp;p[title]=Summer%20Camp%20Directory%202016&amp;p[summary]=A+directory+of+Colorado+summer+camps+for+2016', 'fbwin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=1');"><img class="social-icons" src="http://extras.denverpost.com/projects/2014/latino-project/images/social-facebook.png" alt="Facebook"></a>
@@ -304,6 +319,7 @@
       <p style="font-family:'Oswald', Arial, sans-serif; text-align: right">Copyright &copy; 2016, The Denver Post</p>
       </div>
     </div>
+    </footer>
 
     <script>
     $( '#example' ).dataTable( { 
@@ -389,5 +405,18 @@
       	     loadChartbeat : function() { oldonload(); loadChartbeat(); };
       	})();
 	</script>
+
+	<script>
+	  // Hide Google analytics if #iframe in url
+	  if ( iframe === 1 ) {
+	      $('#google-analytics').remove()
+	    }
+	    
+	  // If #iframe in url, hide header section and footer
+	  if ( iframe === 1 ) {
+	    $('#hide-iframe, footer').addClass('hide');
+	  }
+    </script>
+
     </body>
 </html>
