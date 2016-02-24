@@ -7151,7 +7151,7 @@
     "city": "Denver",
     "emailAddress": "casey@kidsyogaguide.com",
     "phoneNumber": "415-475-9642",
-    "website": "http://kidsyogaguide.com/campgratitude/=",
+    "website": "kidsyogaguide.com/campgratitude/",
     "campType": "Day",
     "campCategory": "Sports",
     "campSpecialty": 0,
@@ -7159,10 +7159,10 @@
     "dateTo": "8/26/2016",
     "dateDetail": "M-F 9am - 4pm 7 different weeks",
     "costCategory": "$250-500",
-    "costDetail": "Early bird registration before March 1st.",
+    "costDetail": "Early bird registration before March 31st",
     "ageRange": "5-13",
     "descriptionBrief": "Kids Yoga Guide, Casey Feicht and her team of teachers will guide your kids through this fun week.\nYour kids will build...",
-    "descriptionDetailed": "Kids Yoga Guide, Casey Feicht and her team of teachers will guide your kids through this fun week.\nYour kids will build...\n\n• Confidence & Creativity through theatrical games and signing\n• Peace through yoga, meditation and yogic breathing\n• Self-Expression through dance, music and drum circle\n• World Awareness through stories, mandalas and play\n• Growing gratitude awareness in our children’s lives\n\nCamp Gratitude 2016\nEach camp is Monday to Friday\n9-4pm. Sorry no early or late care is available.\nJune 20th -24th ~ 9-13 yrs Holly St\nJune 27th- July 1st ~ 5-8 yrs Pearl St\n\nJuly 11th -15th ~ 5-8 yrs Pearl St\nJuly 25th-29th ~ 9-13 yrs Holly St\n\nAug 15th-19th ~ 9-13 yrs Holly St\nAug 22nd -26th ~ 5-8 yrs Pearl St\nAug 22nd -26th ~ 5-8 yrs Holly St\n\n\nCamp is from 9am- 4pm Monday to Friday\n\n(Bring a sack lunch and water bottle, and as little extra stuff as possible )\n\nInvestment in Fun & Peace $399 for the whole week, partial days are not available.\n\nEarly Bird Registration by March 1st is $349\n\nLocations:\n\nMudra Yoga Studio 560 S Holly St #15, Denver CO 80246\n\nMudra Yoga Studio 1550 S Pearl St #202, Denver CO 80210\n\nGeneral questions Contact Kids Yoga Guide at casey@kidsyogaguide.com 415-475-YOGA"
+    "descriptionDetailed": "Kids Yoga Guide, Casey Feicht and her team of teachers will guide your kids through this fun week. Your kids will build... • Confidence & Creativity through theatrical games and signing • Peace through yoga, meditation and yogic breathing • Self-Expression through dance, music and drum circle • World Awareness through stories, mandalas and play • Growing gratitude awareness in our children’s lives Camp Gratitude 2016 Each camp is Monday to Friday 9-4pm. Sorry no early or late care is available. June 20th -24th ~ 9-13 yrs Holly St; June 27th- July 1st ~ 5-8 yrs Pearl St; July 11th -15th ~ 5-8 yrs Pearl St; July 25th-29th ~ 9-13 yrs Holly St; Aug 8th-12th ~ 5-8 yrs at Holly St; Aug 15th-19th ~ 9-13 yrs at Holly St; Aug 15th-19th ~ 5-8 yrs at Holly St; Aug 15th-19th ~ 5-8 yrs at Pearl St. Camp is from 9am- 4pm Monday to Friday (Bring a sack lunch and water bottle, and as little extra stuff as possible ) Investment in Fun & Peace $399 for the whole week, partial days are not available. Early Bird Registration by March 31st is $349 Locations: Mudra Yoga Studio 560 S Holly St #15, Denver CO 80246 Mudra Yoga Studio 1550 S Pearl St #202, Denver CO 80210 General questions Contact Kids Yoga Guide at casey@kidsyogaguide.com 415-475-YOGA"
   },
   {
     "campName": "Lil' Tykes Summer Camp",
