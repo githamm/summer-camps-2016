@@ -1191,7 +1191,7 @@
   {
     "campName": "Smart-Girl Leadership Summer Camp",
     "city": "Denver",
-    "emailAddress": "kwineck@admhn.org",
+    "emailAddress": "kwieneck@admhn.org",
     "phoneNumber": "303-999-2340",
     "website": "http://www.smart-girl.org/smart-girl-summer-camp-registration-2016/",
     "campType": "Day",
@@ -1209,7 +1209,7 @@
   {
     "campName": "Smart-Girl Leadership Summer Camp",
     "city": "Denver",
-    "emailAddress": "kwineck@admhn.org",
+    "emailAddress": "kwieneck@admhn.org",
     "phoneNumber": "303-999-2340",
     "website": "http://www.smart-girl.org/smart-girl-summer-camp-registration-2016/",
     "campType": "Day",
