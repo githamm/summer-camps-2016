@@ -8981,6 +8981,24 @@
     "ageRange": "5-11",
     "descriptionBrief": "P.A.S.S. Camp is a weekly sports camp held on the University of Denver campus, providing campers ages 5-11 with beginner-level instruction and features an introduction to sports taught by skilled instructors.",
     "descriptionDetailed": "Pioneer Athletic Super Summer (P.A.S.S.) camp is a DU summer tradition! Entering its 23rd summer, P.A.S.S. Camp provides a weekly sport camp environment for campers ages 5 - 11. P.A.S.S. Camp will offer 12 one-week camps between May 31- August 19. P.A.S.S. Camp is a beginner sports camp in which campers will participate in five different sports majors each week, rotating to a new major each day of the week. Majors are focused on beginner-level instruction taught by skilled instructors. Each day, campers will start with general instruction in the day's major, followed by games and other activities including swimming ice skating, climbing wall, field sports and gymnastics. Campers will have the opportunity to experience the prestigious fields, courts and rinks at the Ritchie Center on the University of Denver campus, where all activities take place. We provide all required sports equipment and a 1:10 or better staff-to camper ratio. P.A.S.S. Camp is offered between the hours of 8 a.m. - 5:30 p.m. and Early Care (7:30 - 8 a.m.) and Late Care (5:30 - 6 p.m.) are available for an additional fee. We hope to see you this summer!"
+  },
+  {
+    "campName": "Swallow Hill Music Kid's Camp",
+    "city": "Mount Crested Butte",
+    "emailAddress": "max@mycbmf.com",
+    "phoneNumber": "970-349-0619",
+    "website": "crestedbuttemusicfestival.org/one-world/swallow-hill-music-school-kids-camp/",
+    "campType": "Day camp",
+    "campCategory": "Arts",
+    "campSpecialty": "Music Education",
+    "dateFrom": "6/27/2016",
+    "dateTo": "7/1/2016",
+    "dateDetail": "9am-4pm",
+    "costCategory": "$250-500",
+    "costDetail": "$299",
+    "ageRange": "7-14",
+    "descriptionBrief": "A fun, 5-day music camp in Crested Butte that provides kids (ages 7-14) an amazing experience in bluegrass music education.",
+    "descriptionDetailed": "Students learn to play in a bluegrass band with other students, write songs, and advance their individual skills through instrument break-out sessions. The day camp offers training for first-timers as well as intermediate players, provided by faculty from the esteemed Swallow Hill Music School in Denver. This camp is a collaboration between the Crested Butte Music Festival and Swallow Hill Music School."
   }
 ]
 }
