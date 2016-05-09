@@ -9323,6 +9323,42 @@
     "ageRange": "14-18",
     "descriptionBrief": "In this unique CIT program, teens develop the the skills of leadership, self-accountability, and integrity while co-creating a live-action roleplaying game.",
     "descriptionDetailed": "Since 1995, Renaissance Adventures has led award-winning experiential education programs using fun and exciting live-action roleplaying games. Knight CITs work as mentors alongside our adult leaders to lead a fantasy live-action roleplaying game called Adventure Quest. Specifically, Knight CITs help with activities, challenges, storytelling, plot dynamics, characters, safety, and leadership so that the kids can be the heroes of a mythic quest."
+  },
+  {
+    "campName": "Junior Museum Camp: Behind the Scenes",
+    "city": "Denver",
+    "emailAddress": "reservations@state.co.us",
+    "phoneNumber": "303-866-2394",
+    "website": "historycolorado.org/event/junior-museum-camp-behind-scenes",
+    "campType": "Day camp",
+    "campCategory": "General",
+    "campSpecialty": "History",
+    "dateFrom": "6/20/2016",
+    "dateTo": "6/24/2016",
+    "dateDetail": 0,
+    "costCategory": "$250-500",
+    "costDetail": "Members $250 per child per week, nonmembers $280 per child per week",
+    "ageRange": "7-11",
+    "descriptionBrief": "Campers will travel back in time to learn Colorado’s most fascinating stories. Get exclusive access to where we create exhibits and store artifacts.",
+    "descriptionDetailed": "Campers will: Design and make a new exhibit diorama. Earn a junior museum ID badge. Meet and learn from top museum professionals. Assist exhibit designers working on the museum’s newest exhibit. Handle artifacts not available to the public. Investigate Colorado’s people and places in the research library. Additional hours: Need an early drop-off or late pick up? $50 fee for early drop off/late pick up."
+  },
+  {
+    "campName": "Junior Museum Camp: Colorado Up Close",
+    "city": "Denver",
+    "emailAddress": "reservations@state.co.us",
+    "phoneNumber": "303-866-2394",
+    "website": "historycolorado.org/event/junior-museum-camp-colorado-close",
+    "campType": "Day camp",
+    "campCategory": "General",
+    "campSpecialty": "History",
+    "dateFrom": "7/11/2016",
+    "dateTo": "7/15/2016",
+    "dateDetail": 0,
+    "costCategory": "$250-500",
+    "costDetail": "Members $250 per child per week, nonmembers $280 per child per week",
+    "ageRange": "7-11",
+    "descriptionBrief": "Come discover Colorado through excursions and explorations that bring stories to life. Campers will travel back in time to learn Colorado’s most fascinating stories. Get exclusive access to where we create exhibits and store artifacts.",
+    "descriptionDetailed": "Campers will: Design and make a new exhibit diorama. Earn a junior museum ID badge. Meet and learn from top museum professionals. Assist exhibit designers working on the museum’s newest exhibit. Handle artifacts not available to the public. Investigate Colorado’s people and places in the research library. Designed for students entering grades 2–5 Additional hours: Need an early drop-off or late pick up? $50 fee for early drop off/late pick up."
   }
 ]
 }
